@@ -129,7 +129,7 @@ console.log(AV.analytics.version);   // 0.0.1
 
 描述：发送自定义事件，可以用来监测用户行为，或者做其他相关统计。
 
-参数：
+参数： 
 
 * options {Object} （必须）发送数据的配置，具体参数包括：
 
